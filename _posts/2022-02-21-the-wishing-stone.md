@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 tags:
   - scribbles
@@ -14,5 +14,3 @@ This time he said there is a wishing stone inside the cathedral and he took them
 Later I asked him about the stone, since I was curious, as I hadn’t heard of the stone before. A bit embarrassed, he proceed to tell me that he wasn’t sure where it was located and since parts of the building were closed and they couldn’t see everything, and he didn’t want the guests to be disappointed, he eyed a stone that looked a bit different than the rest and declared: “This is the wishing stone of Stephansdom!”. 
 
 ![20220212_165421.jpg]({{site.baseurl}}/_posts/20220212_165421.jpg)
-
-
