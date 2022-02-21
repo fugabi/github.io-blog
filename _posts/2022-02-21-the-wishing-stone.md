@@ -10,5 +10,5 @@ For a few days, during Christmas last year, we had guests from abroad. R is gett
 We took the guests for a walk through the city center and, at Stephansdom, he played the tour guide for them. He’s been there often, with the kindergarten and then with the school too, he even went up the stairs of the tower a few times and he has stories to tell about the place.  
 This time he said there is a wishing stone inside the cathedral and he took them in to quickly show it to them.  
 Later I asked him about the stone, since I was curious, as I hadn’t heard of the stone before. A bit embarrassed, he proceed to tell me that he wasn’t sure where it was located and since parts of the building were closed and they couldn’t see everything, and he didn’t want the guests to be disappointed, he eyed a stone that looked a bit different than the rest and declared:  
-“This is the wishing stone of Stephansdom!”. 
+“This is the wishing stone of Stephansdom!”. 	
 ![]https://github.com/fugabi/blog/blob/ab1ec91dbdfa63d53ac547e4d8fb68a736193ce1/_posts/20220212_165421.jpg)
