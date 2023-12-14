@@ -42,7 +42,7 @@ Patchwork:
 >
 > Jogging in Speicherstadt in Hamburg was one of the nicest running experiences I have ever had. 
 >
-> I never wore glasses.
+
 
 ---
 
