@@ -17,6 +17,6 @@ Except for this:
 
 
 
-#### Gottfried Helnwein Pink Mouse 2, 2016 © Gottfried Helnwein 
+_Gottfried Helnwein Pink Mouse 2, 2016 © Gottfried Helnwein_ 
 
 There's lots of posters and billboards throughout the city advertising the Albertina [exhibition](https://www.albertina.at/en/exhibitions/gottfried-helnwein-23/), but she never said anything about it. She never joyously pointed it out, as she always does in so many other cases. It must have something very inhibiting, maybe even scary at some deep level. Maybe that's what the artist intended: to strip the cartoon character of its identity and make it something else completely. If that's the case, he undoubtedly succeeded.
