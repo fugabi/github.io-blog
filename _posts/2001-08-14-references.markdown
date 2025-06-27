@@ -5,7 +5,7 @@ date: '2001-08-14 08:42:00'
 published: true
 ---
 
-[**Emotions, Metaphors and Reality**](https://fugabi.github.io/blog/2001-08-14-emotions-metaphors-and-reality/) 
+[**Emotions, Metaphors and Reality**](https://fugabi.github.io/2001-08-14-emotions-metaphors-and-reality/) 
 
 Gabriel Furmuzachi
 
