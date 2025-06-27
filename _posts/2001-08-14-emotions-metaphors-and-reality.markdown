@@ -34,7 +34,7 @@ Thus, following Lyall, emotions and reason are always in a balance and they work
 
  
 
-#### I. [WILLIAM LYALL](https://fugabi.github.io/blog/2001-08-14-william-lyall/)
+#### I. [WILLIAM LYALL](https://fugabi.github.io/2001-08-14-william-lyall/)
 
 ##### AN OVERVIEW OF WILLIAM LYALL’S PHILOSOPHY
 
