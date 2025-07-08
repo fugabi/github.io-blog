@@ -26,7 +26,7 @@ Just the font alone didn’t do it though.
 
 So I kept sketching. It was one drawing after another until things started to take a shape. This was the next idea I felt had something to it.
 
-![img](https://db3pap003files.storage.live.com/y4mhWFrFGikBG3qKARfo5XJBm8NykjiPlcvuDWjU95QYrL6cK7riU_LpV5sDVRc9BThNWmKKea2bzC5LXWWS6AMsOFWq77IaoFKEIt4cxHuiWLNCrbBlLY2VGIrDf8JfRetiAFlOca33Dk_waQOjUP6m4cM17tBEozfGjxoCCuzYaYL0i_c_ISV9EJuX44cy5QP?width=871&height=871&cropmode=none)
+![img](https://lh3.googleusercontent.com/pw/AP1GczNCn-YXADp8X58OZk63S6xBXTPKdQC6xObbPXBsAH904LTSv7jAECqfsPCcpGj1KS9Dzjk9xu1DJVRsfeIDmcyajVnc5ZgQGfn9w3nony_pudOQXMRgbTu6VDcgtUM60e4zmuWuiG3u2_f8ZVp2ftJV5A=w1000-h707-s-no-gm)
 
 That then evolved into this:
 
