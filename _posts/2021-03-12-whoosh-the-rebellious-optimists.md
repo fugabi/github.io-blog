@@ -37,11 +37,7 @@ That then evolved into this:
 
 I showed it to some friends, and one of them said it looked like stained glass. Like this:
 
-![img](https://db3pap003files.storage.live.com/y4mTXLqme9kwuF5QOvfAw3p6FAIyL2uYzYwaPi9kHxJU6eXlzdpE88BI6eaNVTkOayrPjULwI2rWLHREeByLKM0QmWRIBv7SgEK1fePKqDHcTpL_7TiFwWve1vzUf4efcB-Cu1BavqMKtXKrSF_bFOsGt1AL8ZvOTKs_uCm1TMd21_jVyXmVmECT7tKbfN1SR3O?width=1600&height=1066&cropmode=none)
-
-Or like this:
-
-![img](https://db3pap003files.storage.live.com/y4mtJiAV0ovnFXNkg4_B66tBx60B8WD9Ta4ThAmQ1rSGoe0knEMayISZ78V3YzwcjI6Pmz1KnN_g52yBPGqVHr6csGRH1ZyTaS0D0eiJod-h0hNa7XwlXRp8sCERBGoVgJ3-NxUmJ284FGyEBztVnSB9DiAGrnXf7eh_Ov4Uc07c0RbBzZb63uNZFWBHYsAL5Ig?width=497&height=750&cropmode=none)
+![img](https://lh3.googleusercontent.com/pw/AP1GczPGuGyIvGpbQYpY8sJbegJf1l1dgliYcK4qRaB5eeO-TXYzt-_xpP_ITO4HB0OB7v0M6L9NP1iyuZQus4v-cvexRO_JgcZHFUxV6UUw_aQbE1pGeHVMw-o2ssH5N72Ltbuy5jnQBU_b44f8efyDmPEKrg=w930-h1184-s-no-gm)
 
 That’s when it hit me: Gerhard Richter, the German painter! I have admired his work for decades. He is most well-known for his photorealistic  paintings and glass work, but one of my favorite pieces of his is a  watercolor of bright colorful brush strokes painted on a notebook page.  I’ve dreamt of owning that piece since the day I saw it hanging in an  exhibit at the Albertina museum in Vienna.
 
