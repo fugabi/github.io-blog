@@ -19,7 +19,7 @@ With this as a starting point, I started sketching.
 
 My first stop was fonts inspired by the Jugendstil movement. They use  simple yet dynamic shapes and lines to create decorative and organic art and architecture.
 
-![img](https://db3pap003files.storage.live.com/y4muvY0V0eFozfJndJka8GGmdHsHLq33VodcGCttOY-KQ4ahs8XSGX86_HgxCH_jr08nwpj0OrB6KyjD5W7D2uYnZ0oe7Dqrm5iKQyhcgwknVC3edup8n0Y39xP7RYa9mFT2T5pfAb1tGQV3vuKihJ_eEwDBAq5pp9_3ySaHIcWFSUASKQnt-BLn-Ha8QfDLXAz?width=429&height=148&cropmode=none)
+![img](https://lh3.googleusercontent.com/pw/AP1GczO7tSej6rjPYieGlYzN4H6HnByRDA4SHyJeo_q5kuObGuNQNwAiD8oMNM72qqCG8jBU6Xa3vDfmyABGO_w-51mh5K5ACDWQIQzPumLWRp3lB_LRTNqnAUcTP_ja1iU2mcoU827LhQkByutANXtH6stQAw=w640-h640-s-no-gm)
 
 Just the font alone didn’t do it though.
 ![img](https://db3pap003files.storage.live.com/y4m4NA_3go_I-asaDC3Ke-aDAbjUk-lxoLv98Ex7zXoL1kYSG4IW4ZUMdnXH2YU6LLt7Puk-yAx4xrT2mKKhHszBYfBS7EeBH9b1JyRlpTzkcnWkDsBms8Mh9MKHEFp1L2DWVm2jaHOOHMMgx0YFhPXNCaxTAjAD9NfBMakRzUPuHPFQKjZL3xy-W2yeKkjZ44b?width=1000&height=1000&cropmode=none)
