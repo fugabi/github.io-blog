@@ -13,7 +13,7 @@ date: '2020-10-10'
 What does *whoosh* mean? The word itself is a sound, an onomatopoeia (a word that mimics  the sound it’s describing). It has some kind of sudden movement but also a flow and drive. For the founders of the *WHOOSH* group, it  means rebellious optimism and engagement with urbanism, particularly in  the city of Vienna. So how do I capture this light, optimistic, and fun  spirit while still being rebellious and in your face?
 The team gave me their original logo idea of cutout letters glued together.
 
-![img](https://db3pap003files.storage.live.com/y4m3mRPUtNWtChoumC_StOrkrsaEfsiLQf1imPXxGX6AzsL91yTL-j8sanlpJXoGO8sSl_C4rb_QfaIUUDJlkSFd-BQkeYvFKvg50_SlsCyiabGO4XOJ06_FLixNMYY3I49kpMIf1aYYCWEKTMrCZN8krEJdXrNuiZq2Ira1BI2V2Tpn5nP9oRdnjA6hHFNlV7W?width=474&height=480&cropmode=none)
+![img](https://lh3.googleusercontent.com/pw/AP1GczPfpJ1WgvhWNMSmrLzVDglO5YZVikQLvKdGQ0Owcby36KZ_b7Fn_sf9wqGZC4mU9fj7fKV_1a5hqAxZANXPh807bSqCcEthSwhqNHDbmfg-9OeQZW64nuqynIcGWNcP_cN-PJQnWlP7JlV8rbLapTY2BA=w993-h1005-s-no-gm?authuser=0)
 
 With this as a starting point, I started sketching.
 
