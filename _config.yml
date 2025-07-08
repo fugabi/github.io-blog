@@ -40,9 +40,9 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "gabriel.furmuzachi@gmail.com"
-  facebook: fugabi
+  #facebook: fugabi
   #github: daattali
-  twitter: fugabite
+  #twitter: fugabite
   #patreon: DeanAttali
   #youtube: c/daattali
 #  medium: yourname
