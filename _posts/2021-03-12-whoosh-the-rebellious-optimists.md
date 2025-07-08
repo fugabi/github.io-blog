@@ -22,7 +22,7 @@ My first stop was fonts inspired by the Jugendstil movement. They use  simple ye
 ![img](https://lh3.googleusercontent.com/pw/AP1GczO7tSej6rjPYieGlYzN4H6HnByRDA4SHyJeo_q5kuObGuNQNwAiD8oMNM72qqCG8jBU6Xa3vDfmyABGO_w-51mh5K5ACDWQIQzPumLWRp3lB_LRTNqnAUcTP_ja1iU2mcoU827LhQkByutANXtH6stQAw=w640-h640-s-no-gm)
 
 Just the font alone didn’t do it though.
-![img](https://db3pap003files.storage.live.com/y4m4NA_3go_I-asaDC3Ke-aDAbjUk-lxoLv98Ex7zXoL1kYSG4IW4ZUMdnXH2YU6LLt7Puk-yAx4xrT2mKKhHszBYfBS7EeBH9b1JyRlpTzkcnWkDsBms8Mh9MKHEFp1L2DWVm2jaHOOHMMgx0YFhPXNCaxTAjAD9NfBMakRzUPuHPFQKjZL3xy-W2yeKkjZ44b?width=1000&height=1000&cropmode=none)
+![img](https://lh3.googleusercontent.com/pw/AP1GczPcY2QZW4Ho9c_-w2AqYnaLXu_uA7udpTZpWpoVvL92ChBPmqmiZIL0TWEPP46WtgbuqYwtrvV8mrDR_zH6CBDuosy5M6dAlP7k0QG7yNLcFnHL0YL4e5quSJt5ZUf_EBylocIWkl5sW8huml7AS37K6g=w871-h871-s-no-gm)
 
 So I kept sketching. It was one drawing after another until things started to take a shape. This was the next idea I felt had something to it.
 
