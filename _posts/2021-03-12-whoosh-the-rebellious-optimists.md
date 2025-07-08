@@ -30,7 +30,7 @@ So I kept sketching. It was one drawing after another until things started to ta
 
 That then evolved into this:
 
-![img](https://db3pap003files.storage.live.com/y4mRHWddqFDbjkbik8e8Xw0yssLu74TY9kfn41LWxmI3asdjrRfkknWWXS9RHX1rz_6zvJK_0w6BKw6zsvwHf0Ok7DaIFyE6DjWzffyYi876nvcri3JtQVwNjn5-nDTdyopiNbF4c0OslHi3LKKGcalcNPaxHrps3j52D5vTyXKIPN1-axEpZlog2vRVZYTSnjn?width=1000&height=707&cropmode=none)
+![img](https://lh3.googleusercontent.com/pw/AP1GczPqw1EZpn3fKRS-cgBstksb5zy-bkMwGWr661rz0UZ5QqNY3mDFQX0gP07NS6Sn2dsYv-VLrXLo5yJ7q7Y-Zk4vHZjWy6PpgNUjguKtDnMrD0P3FJ1zpmQGcnXQ1ZE6tFAWxKzL2Ng7MdJrLnzLm2OUqA=w1000-h1000-s-no-gm)
 
 I showed it to some friends, and one of them said it looked like stained glass. Like this:
 
