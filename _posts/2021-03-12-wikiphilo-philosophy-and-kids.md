@@ -19,6 +19,9 @@ While this aesthetic is beautiful and recognizable, it feels almost too  functio
 
 Now I had the concept, but I had to find a way to add all the required logos and text. How do you fit event details for 28 dates, 6 partner  logos, AND 14 different coats of arms for Vienna Districts without  killing your design? Well, by putting it on the back, of course. I know, it seems like an obvious solution, but even that takes careful  consideration to minimize busyness and achieve a balance.
 
+![img](https://lh3.googleusercontent.com/pw/AP1GczMvbZb7iTYT79edg_frQa97YV73mxnzbBIjR7-fxvd2DIbw619duuVt3ALRkmisRWuoCIGGrYNcyt6s2oSF43yNn5-doUV9lYm7IaS0JsmsbpW5wzFBUztcn-osKcVLXVoYNAnFdNkRZag_WFMI0OPscg=w891-h1190-s-no-gm)
+
+
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPEy9OUOX57nTk-0t84WYVuRMkAGOqMpzpRCS8eqDE988hburAGsWaIxVVmAkY1sm9RkVSO-mC69p6hT_QVIrI05xsJZfSGDHW4goTPWx-hosAKfiDVyQLU46AQjunPBEAlhQJvCzB-0qS9JS6oImFTCw=w891-h1190-s-no-gm)
 
 I also designed T-shirts so the Wikiphilo team would look friendly and  approachable but also legitimate. One idea I had fun with was a simple  Metallica-style band t-shirt. But, even though philosophy is so metal, this one never left the drawing board because it was a little too  literal.
