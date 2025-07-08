@@ -47,4 +47,4 @@ That’s when it hit me: Gerhard Richter, the German painter! I have admired his
 
 With Richter front and center in my mind, all the pieces of the WHOOSH logo fell into place.
 
-![img]((https://lh3.googleusercontent.com/pw/AP1GczPqw1EZpn3fKRS-cgBstksb5zy-bkMwGWr661rz0UZ5QqNY3mDFQX0gP07NS6Sn2dsYv-VLrXLo5yJ7q7Y-Zk4vHZjWy6PpgNUjguKtDnMrD0P3FJ1zpmQGcnXQ1ZE6tFAWxKzL2Ng7MdJrLnzLm2OUqA=w1000-h1000-s-no-gm))
+![img](https://lh3.googleusercontent.com/pw/AP1GczPqw1EZpn3fKRS-cgBstksb5zy-bkMwGWr661rz0UZ5QqNY3mDFQX0gP07NS6Sn2dsYv-VLrXLo5yJ7q7Y-Zk4vHZjWy6PpgNUjguKtDnMrD0P3FJ1zpmQGcnXQ1ZE6tFAWxKzL2Ng7MdJrLnzLm2OUqA=w1000-h1000-s-no-gm)
