@@ -30,4 +30,4 @@ Then we get to Monty Python, and I start to walk in a slow, lurching, awkward wa
 “He doesn’t go too much,” I say. “He’s mostly thinking.”
 
 
-![](https://github.com/fugabi/fugabi.github.io/blob/79b1b53e5ea62e81fc450ec1cbdae2a3ef210532/_posts/20251010_191728.jpg)
+![](_posts/20251010_191728.jpg)
