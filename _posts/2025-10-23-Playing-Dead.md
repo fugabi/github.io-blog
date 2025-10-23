@@ -20,3 +20,5 @@ _I know it is just a game, but even then, it is sad. When somebody is dead, they
 She isn't willing to let go. Without even blinking, she says:
 
 _You know, once by kindergarten we saw a dead bird on the ground. It was dead. But we could see it. Everyone could see it. Even if it was dead._
+
+![](https://raw.githubusercontent.com/fugabi/fugabi.github.io/79b1b53e5ea62e81fc450ec1cbdae2a3ef210532/_posts/20251018_122503.jpg)
