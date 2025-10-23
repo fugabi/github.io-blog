@@ -21,4 +21,3 @@ She isn't willing to let go. Without even blinking, she says:
 
 _You know, once by kindergarten we saw a dead bird on the ground. It was dead. But we could see it. Everyone could see it. Even if it was dead._
 
-![](_posts/20251018_122503.jpg)
