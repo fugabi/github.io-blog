@@ -7,7 +7,7 @@ tags:
 date: '2025-10-23'
 ---
 
-_In the game you're the kid and I'm the kid_, she tells me. And our father is dead. 
+_In the game you're the kid and I'm the kid_, she tells me. _And our father is dead._ 
 
 I was surprised. Where did this come from? 
 
