@@ -8,9 +8,11 @@ content:
     label: Posts
     type: collection
     path: "_posts"
+    view:
+      fields: [ title, published, date ]
     extension: "md"
-    format: "yaml-frontmatter"
-    filename: "{year}-{month}-{day}-{slug}"
+   # format: "yaml-frontmatter"
+   # filename: "{year}-{month}-{day}-{slug}"
     fields:
       - name: title
         label: Title
