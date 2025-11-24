@@ -22,7 +22,7 @@ Thus, following Lyall, emotions and reason are always in a balance and they work
 
 ### TABLE OF CONTENTS
 
-#### [I. WILLIAM LYALL](https://blog.cento.red/2001-08-14-william-lyall/)
+#### I. [WILLIAM LYALL](https://blog.cento.red/2001-08-14-william-lyall/)
 
 ##### AN OVERVIEW OF WILLIAM LYALL’S PHILOSOPHY
 
@@ -38,7 +38,7 @@ Emotions, Morality and Being
 
 ###### INTELLECT, EMOTIONS AND IMAGINATION
 
-#### II. [ON EMOTION](https://fugabi.github.io-blog/emr/2001-08-14-on-emotion.md)
+#### II. [ON EMOTION](https://blog.cento.red/emr/2001-08-14-on-emotion.md)
 
 ##### FOUR THEORIES OF EMOTION
 
@@ -58,7 +58,7 @@ The Magical World
 
 Lyall and Sartre
 
-#### III. [ON METAPHOR](https://fugabi.github.io-blog/emr/2001-08-14-on-metaphor.md)
+#### III. [ON METAPHOR](https://blog.cento.red/emr/2001-08-14-on-metaphor.md)
 
 ##### FOUR THEORIES OF METAPHOR
 
@@ -90,8 +90,8 @@ Imagination
 
 The Emotive Dimension
 
-#### IV. [CONCLUDING REMARKS](https://fugabi.github.io-blog/emr/2001-08-14-concluding-remarks.md)
+#### IV. [CONCLUDING REMARKS](https://blog.cento.red/emr/2001-08-14-concluding-remarks.md)
 
-[APPENDIX](https://fugabi.github.io-blog/emr/2001-08-14-appendix/)
+[APPENDIX](https://blog.cento.red/emr/2001-08-14-appendix/)
 
-[REFERENCES](https://fugabi.github.io-blog/emr/2001-08-14-reference.md)
+[REFERENCES](https://blog.cento.red/emr/2001-08-14-reference.md)
