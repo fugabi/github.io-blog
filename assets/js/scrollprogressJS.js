@@ -4,7 +4,7 @@ const progressJS = {
           //color
           "color": "#E84C3D",
           //height
-          "height": "0.3125rem",
+          "height": "2px",
           "top": 0,
           "bottom": 0,
           "left": 0,
