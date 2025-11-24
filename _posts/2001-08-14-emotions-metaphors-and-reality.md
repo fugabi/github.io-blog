@@ -22,7 +22,7 @@ Thus, following Lyall, emotions and reason are always in a balance and they work
 
 ### TABLE OF CONTENTS
 
-#### [I. WILLIAM LYALL](2001-08-14-william-lyall.md)
+#### [I. WILLIAM LYALL](https://blog.cento.red/2001-08-14-william-lyall/)
 
 ##### AN OVERVIEW OF WILLIAM LYALL’S PHILOSOPHY
 
