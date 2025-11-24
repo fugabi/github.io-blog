@@ -32,6 +32,8 @@ _Kids... You can count on them to tell the truth when you least expect it!_
 
 The ticket clerk stares at us. She is hesitating for a couple of seconds and then she just smiles as if nothing happened and hands over the tickets.
 
-_Have a nice visit!_  
-  
-!\[\]([https://lh3.googleusercontent.com/pw/AP1GczNwcrxXkQZDxPo8ANoyVEIZgXqNIUkekN3dqT-oqoSNaW5nN-BQeaxv7gh47MfoqB\_dFw4FJC2nM\_VCJHI8tlJgJboPCUHbTsP79CvMFRpjhsJra7RIN-NlrJwSRZTS7d0AQ3uF83YA010MSRFT87l51Q=w1695-h1271-s-no-gm?authuser=0.jpg](https://lh3.googleusercontent.com/pw/AP1GczNwcrxXkQZDxPo8ANoyVEIZgXqNIUkekN3dqT-oqoSNaW5nN-BQeaxv7gh47MfoqB_dFw4FJC2nM_VCJHI8tlJgJboPCUHbTsP79CvMFRpjhsJra7RIN-NlrJwSRZTS7d0AQ3uF83YA010MSRFT87l51Q=w1695-h1271-s-no-gm?authuser=0.jpg))
+_Have a nice visit!_
+
+![](/assets/images/20240612_155839%5B1%5D.jpg)
+
+![](/assets/images/20240612_155839.jpg)
