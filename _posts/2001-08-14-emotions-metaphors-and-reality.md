@@ -38,7 +38,7 @@ Emotions, Morality and Being
 
 ###### INTELLECT, EMOTIONS AND IMAGINATION
 
-#### II. [ON EMOTION](https://blog.cento.red/2001-08-14-on-emotion.md)
+#### II. [ON EMOTION](https://blog.cento.red/2001-08-14-on-emotion/)
 
 ##### FOUR THEORIES OF EMOTION
 
@@ -58,7 +58,7 @@ The Magical World
 
 Lyall and Sartre
 
-#### III. [ON METAPHOR](https://blog.cento.red/2001-08-14-on-metaphor.md)
+#### III. [ON METAPHOR](https://blog.cento.red/2001-08-14-on-metaphor)
 
 ##### FOUR THEORIES OF METAPHOR
 
@@ -90,8 +90,8 @@ Imagination
 
 The Emotive Dimension
 
-#### IV. [CONCLUDING REMARKS](https://blog.cento.red/2001-08-14-concluding-remarks.md)
+#### IV. [CONCLUDING REMARKS](https://blog.cento.red/2001-08-14-concluding-remarks)
 
 [APPENDIX](https://blog.cento.red/2001-08-14-appendix/)
 
-[REFERENCES](https://blog.cento.red/2001-08-14-reference.md)
+[REFERENCES](https://blog.cento.red/2001-08-14-reference/)
