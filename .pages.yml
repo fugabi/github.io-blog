@@ -5,15 +5,18 @@ media:
   output: "/assets/images"
 
 content:
-  - name: blog
-    label: Blog Posts
+  - name: posts
+    label: Posts
     type: collection
     path: "_posts"
     extension: "md"
     format: "yaml-frontmatter"
     filename: "{year}-{month}-{day}-{slug}"
-    #filename: "{slug}"
     fields:
+      - name: published
+        label: Published
+        type: boolean
+        default: true
       - name: title
         label: Title
         type: string
