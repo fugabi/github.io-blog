@@ -3,7 +3,6 @@ title: My Blog Site
 media:
   input: "assets/images"
   output: "/assets/images"
-
 content:
   - name: posts
     label: Posts
@@ -13,10 +12,6 @@ content:
     format: "yaml-frontmatter"
     filename: "{year}-{month}-{day}-{slug}"
     fields:
-      - name: published
-        label: Published
-        type: boolean
-        default: true
       - name: title
         label: Title
         type: string
