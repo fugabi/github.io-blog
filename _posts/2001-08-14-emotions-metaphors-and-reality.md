@@ -1,19 +1,12 @@
 ---
-layout: post
-title: 'EMOTIONS, METAPHORS AND REALITY'
-date: '2001-08-14 08:02:00'
-tags:
-  - philosophy
-  - essay
-published: true
+title: EMOTIONS, METAPHORS AND REALITY
+date: 2001-08-14
 ---
-
-A PHENOMENOLOGICAL APPROACH TO WILLIAM LYALL’S *INTELLECT, THE EMOTIONS AND THE MORAL NATURE*
+A PHENOMENOLOGICAL APPROACH TO WILLIAM LYALL’S _INTELLECT, THE EMOTIONS AND THE MORAL NATURE_
 
 by
 
-GABRIEL FURMUZACHI
-April 2001
+GABRIEL FURMUZACHI April 2001
 
 **Abstract**
 
@@ -25,16 +18,11 @@ The Maritimes philosopher advances the idea that emotions have a cognitive value
 
 Latent in Lyall’s work can also be found a theory of metaphor which I try to revive with the help of French philosopher Paul Ricoeur.
 
-Thus, following Lyall, emotions and reason are always in a balance and they work together in order to give us a more consistent and fuller grasp of reality.  
+Thus, following Lyall, emotions and reason are always in a balance and they work together in order to give us a more consistent and fuller grasp of reality.
 
- 
+### TABLE OF CONTENTS
 
-### TABLE OF CONTENTS  
-
-
- 
-
-#### I. [WILLIAM LYALL](https://fugabi.github.io-blog/emr/2001-08-14-william-lyall.md)
+#### [I. WILLIAM LYALL](2001-08-14-william-lyall.md)
 
 ##### AN OVERVIEW OF WILLIAM LYALL’S PHILOSOPHY
 
@@ -49,9 +37,6 @@ Lyall’s Understanding of the Intellect
 Emotions, Morality and Being
 
 ###### INTELLECT, EMOTIONS AND IMAGINATION
-
- 
-
 
 #### II. [ON EMOTION](https://fugabi.github.io-blog/emr/2001-08-14-on-emotion.md)
 
@@ -73,8 +58,6 @@ The Magical World
 
 Lyall and Sartre
 
- 
-
 #### III. [ON METAPHOR](https://fugabi.github.io-blog/emr/2001-08-14-on-metaphor.md)
 
 ##### FOUR THEORIES OF METAPHOR
@@ -93,9 +76,9 @@ Turbayne and The Myth of Metaphor
 
 Philip Wheelwright’s Metaphor and Reality
 
-*Epiphor*
+_Epiphor_
 
- *Diaphor*
+_Diaphor_
 
 ##### ENTER RICOEUR!
 
@@ -104,14 +87,10 @@ Reference: Metaphors and Reality
 Imagination
 
 ##### LYALL AND METAPHORS
+
 The Emotive Dimension
 
- 
-
 #### IV. [CONCLUDING REMARKS](https://fugabi.github.io-blog/emr/2001-08-14-concluding-remarks.md)
-
-
- 
 
 [APPENDIX](https://fugabi.github.io-blog/emr/2001-08-14-appendix/)
 
