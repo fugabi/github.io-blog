@@ -34,7 +34,7 @@ Thus, following Lyall, emotions and reason are always in a balance and they work
 
  
 
-#### I. [WILLIAM LYALL](https://fugabi.github.io/2001-08-14-william-lyall/)
+#### I. [WILLIAM LYALL](https://fugabi.github.io/emr/2001-08-14-william-lyall/)
 
 ##### AN OVERVIEW OF WILLIAM LYALL’S PHILOSOPHY
 
@@ -53,7 +53,7 @@ Emotions, Morality and Being
  
 
 
-#### II. [ON EMOTION](https://fugabi.github.io/2001-08-14-on-emotion/)
+#### II. [ON EMOTION](https://fugabi.github.io/emr/2001-08-14-on-emotion/)
 
 ##### FOUR THEORIES OF EMOTION
 
@@ -75,7 +75,7 @@ Lyall and Sartre
 
  
 
-#### III. [ON METAPHOR](https://fugabi.github.io/2001-08-14-on-metaphor/)
+#### III. [ON METAPHOR](https://fugabi.github.io/emr/2001-08-14-on-metaphor/)
 
 ##### FOUR THEORIES OF METAPHOR
 
@@ -108,11 +108,11 @@ The Emotive Dimension
 
  
 
-#### IV. [CONCLUDING REMARKS](https://fugabi.github.io/2001-08-14-concluding-remarks/)
+#### IV. [CONCLUDING REMARKS](https://fugabi.github.io/emr/2001-08-14-concluding-remarks/)
 
 
  
 
-[APPENDIX](https://fugabi.github.io/2001-08-14-appendix/)
+[APPENDIX](https://fugabi.github.io/emr/2001-08-14-appendix/)
 
-[REFERENCES](https://fugabi.github.io/2001-08-14-references/)
+[REFERENCES](https://fugabi.github.io/emr/2001-08-14-references/)
