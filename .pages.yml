@@ -5,7 +5,7 @@ media:
   output: "/assets/images"
 
 content:
-  - slug: posts             # This defines your "collection"
+  - slug:              # This defines your "collection"
     label: Blog Posts
     type: collection
     path: "_posts"          # This tells CMS to look in the _posts folder
