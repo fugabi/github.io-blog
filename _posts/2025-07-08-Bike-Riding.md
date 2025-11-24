@@ -1,10 +1,6 @@
 ---
-published: true
-layout: post
-tags:
-  - little N
-  - english
-date: '2025-07-08'
+title: Bike Riding
+date: 2025-07-08
 ---
 Some of little N’s friends can already ride a bike. Little N wanted to learn too. So last week, every day after kindergarten, we went home, took out her bike, made a loop out of a beach towel for her to slide into—so I could hold her steady—and off we went. Every day, for an hour, I ran by her side, helping just enough to keep her balanced. Every day, she kept at it.
 
