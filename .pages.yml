@@ -1,43 +1,25 @@
 # .pages.yml
-
-# The title that appears in the CMS
-title: blog.cento.red
-
-# Where images uploaded via the CMS should be stored in the repo
+title: My Blog Site
 media:
-  #input: "assets/images"      # Where Pages CMS looks for images
-  #output: "/assets/images"    # The path written to the markdown file
+  input: "assets/images"
+  output: "/assets/images"
 
-# Define your content collections
 content:
-  - slug: posts
+  - slug: posts             # This defines your "collection"
     label: Blog Posts
     type: collection
-    path: "_posts" # The Jekyll posts folder
-    filename: "{year}-{month}-{day}-{slug}" # Jekyll naming convention
-    extension: "md"
-    format: "yaml-frontmatter" # Standard for Jekyll
-    
-    # The fields to edit in the Front Matter
+    path: "_posts"          # This tells CMS to look in the _posts folder
+    format: "yaml-frontmatter"
+    filename: "{year}-{month}-{day}-{slug}"
     fields:
       - name: title
         label: Title
         type: string
         required: true
-        
       - name: date
         label: Date
         type: date
         required: true
-        
-      - name: author
-        label: Author
-        type: string
-        
-      - name: layout
-        type: hidden
-        default: post # Forces the 'post' layout
-        
       - name: body
         label: Content
-        type: rich-text # The main text editor
+        type: rich-text
