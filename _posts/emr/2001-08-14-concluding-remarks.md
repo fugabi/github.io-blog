@@ -2,7 +2,7 @@
 title: CONCLUDING REMARKS
 date: 2001-08-14
 ---
-[**Emotions, Metaphors and Reality**](https://fugabi.github.io/2001-08-14-emotions-metaphors-and-reality/)
+[**Emotions, Metaphors and Reality**](https://blog.cento.red/2001-08-14-emotions-metaphors-and-reality/)
 
 #### IV. CONCLUDING REMARKS
 
