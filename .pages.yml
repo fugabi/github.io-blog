@@ -9,7 +9,7 @@ content:
     label: Blog Posts
     type: collection
     path: "_posts"          # This tells CMS to look in the _posts folder
-    
+    extension: "md"
     format: "yaml-frontmatter"
     filename: "{year}-{month}-{day}-{slug}"
     fields:
