@@ -5,8 +5,8 @@ title: blog.cento.red
 
 # Where images uploaded via the CMS should be stored in the repo
 media:
-  input: "assets/images"      # Where Pages CMS looks for images
-  output: "/assets/images"    # The path written to the markdown file
+  #input: "assets/images"      # Where Pages CMS looks for images
+  #output: "/assets/images"    # The path written to the markdown file
 
 # Define your content collections
 content:
