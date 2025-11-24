@@ -5,10 +5,10 @@ media:
   output: "/assets/images"
 
 content:
-  - name: posts              # This defines your "collection"
+  - name: posts
     label: Blog Posts
     type: collection
-    path: "_posts"          # This tells CMS to look in the _posts folder
+    path: "_posts"
     extension: "md"
     format: "yaml-frontmatter"
     filename: "{year}-{month}-{day}-{slug}"
