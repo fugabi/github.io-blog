@@ -94,4 +94,4 @@ The Emotive Dimension
 
 [APPENDIX](https://blog.cento.red/2001-08-14-appendix/)
 
-[REFERENCES](https://blog.cento.red/2001-08-14-reference/)
+[REFERENCES](https://blog.cento.red/2001-08-14-references/)
