@@ -7,10 +7,33 @@
 <body>
   <script src="https://unpkg.com/pages-cms@latest/dist/pages.js"></script>
   <script>
-    // Initialize the CMS
     window.pages = new Pages({
-      repository: 'github.io-blog', // REPLACE THIS
-      branch: 'main', // or 'master'
+      repository: 'github.io-blog', // CHANGE THIS
+      branch: 'main', // CHANGE THIS IF NEEDED
+      
+      // We define the config manually here instead of using .pages.yml
+      config: {
+        media: {
+          input: 'assets/images',
+          output: '/assets/images'
+        },
+        content: [
+          {
+            slug: 'posts',
+            label: 'Blog Posts',
+            type: 'collection',
+            path: '_posts',
+            filename: '{year}-{month}-{day}-{slug}',
+            extension: 'md',
+            format: 'yaml-frontmatter',
+            fields: [
+              { name: 'title', label: 'Title', type: 'string', required: true },
+              { name: 'date', label: 'Date', type: 'date', required: true },
+              { name: 'body', label: 'Content', type: 'rich-text' }
+            ]
+          }
+        ]
+      }
     });
   </script>
 </body>
