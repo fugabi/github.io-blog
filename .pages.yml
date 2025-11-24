@@ -11,8 +11,8 @@ content:
     path: "_posts"
     extension: "md"
     format: "yaml-frontmatter"
-    #filename: "{year}-{month}-{day}-{slug}"
-    filename: "{slug}"
+    filename: "{year}-{month}-{day}-{slug}"
+    #filename: "{slug}"
     fields:
       - name: title
         label: Title
