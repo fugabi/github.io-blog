@@ -58,7 +58,7 @@ The Magical World
 
 Lyall and Sartre
 
-#### III. [ON METAPHOR](https://blog.cento.red/2001-08-14-on-metaphor)
+#### III. [ON METAPHOR](https://blog.cento.red/2001-08-14-on-metaphor/)
 
 ##### FOUR THEORIES OF METAPHOR
 
@@ -90,7 +90,7 @@ Imagination
 
 The Emotive Dimension
 
-#### IV. [CONCLUDING REMARKS](https://blog.cento.red/2001-08-14-concluding-remarks)
+#### IV. [CONCLUDING REMARKS](https://blog.cento.red/2001-08-14-concluding-remarks/)
 
 [APPENDIX](https://blog.cento.red/2001-08-14-appendix/)
 
