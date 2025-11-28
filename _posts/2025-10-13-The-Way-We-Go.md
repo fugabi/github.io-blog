@@ -5,7 +5,7 @@ date: 2025-10-13
 We’re standing in front of this collage of cool images hanging on the wall. We look at the people in it, and I tell her their names while she tries to repeat them.  
 Nelson Mandela. Charlie Chaplin. Frank Zappa. Alain Delon. Henri de Toulouse-Lautrec — that one gets us laughing for a while.
 
-![](https://raw.githubusercontent.com/fugabi/fugabi.github.io/79b1b53e5ea62e81fc450ec1cbdae2a3ef210532/_posts/20251010_191728.jpg)
+![](/assets/images/20251010_191728.jpg)
 
 Then we get to Monty Python, and I start to walk in a slow, lurching, awkward way — half bent over, arms dangling like marionettes, jerky, unbalanced steps.
 
