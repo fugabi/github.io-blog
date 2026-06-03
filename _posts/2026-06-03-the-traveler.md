@@ -22,7 +22,7 @@ A moment later, he pivots toward his reluctant neighbor.
 
 The man on the right stares at him for a long, heavy moment.
 
-"*Ja,*" he replies, his annoyance plainly audible.
+"*Ja,*" he replies, his annoyance already audible.
 
 "*Gut, gut.*"
 
