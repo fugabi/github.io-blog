@@ -14,7 +14,7 @@ After sitting quietly for a bit, he announces to the vehicle at large:
 
 "*Drei Minuten noch.*"
 
-Silence. Nobody replies. We all know the driver will start the engine when everyone is accounted for and he deems it appropriate. Time isn't a constraint for anyone here, certainly not down to the minute.
+Nobody replies. We all know the driver will start the engine when everyone is accounted for and when he deems it appropriate. Time isn't a constraint for anyone here, certainly not down to the minute.
 
 A moment later, he pivots toward his reluctant neighbor.
 
