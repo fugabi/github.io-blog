@@ -10,7 +10,7 @@ The man on the right finally relents, leaning out of his seat to help. The man o
 
 "*Danke,*" the first man replies. "*Eine Hand geht nicht. Danke.*"
 
-After sitting quietly for a beat, he announces to the vehicle at large:
+After sitting quietly for a bit, he announces to the vehicle at large:
 
 "*Drei Minuten noch.*"
 
