@@ -2,9 +2,9 @@
 title: The Traveler
 date: 2026-06-03
 ---
-There are two older men sitting in the row ahead of me. The one on the left (L) is making a grand spectacle of buckling his seat-belt. He fumbles with it as if it were the most critical task in the world, displaying his struggle in a way that practically demands an audience, or maybe just an offer of assistance.
+There are two older men sitting in the row ahead of me. The one on the left is making a grand spectacle of buckling his seat-belt. He fumbles with it as if it were the most critical task in the world, displaying his struggle in a way that practically demands an audience, or maybe just an offer of assistance.
 
-The man on the right (R) finally relents, leaning out of his seat to help. The man on the left keeps gesturing wildly with one hand, mumbling words that maybe were in German, maybe not.
+The man on the right finally relents, leaning out of his seat to help. The man on the left keeps gesturing wildly with one hand, mumbling words that maybe were in German, maybe not.
 
 "*Hier,*" says the man on the right, the moment the buckle finally clicks into place.
 
@@ -51,8 +51,6 @@ Eventually, the driver climbs in, and shortly after, the shuttle eases into moti
 The shuttle takes a turn, then another, finally settling onto the road leading toward the highway and slowly gathering speed.
 
 I watch the man on the left. He is now staring out the window, looking at the passing streets like an uncommon tourist, entirely alone in a world he doesn't quite understand.  
-  
-
 
 ![](/assets/images/20260204_164745.jpg)
 
